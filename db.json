@@ -13,11 +13,4 @@
       "role": "USER"
     }
   ],
-  "products": [
-    {
-      "id": 1,
-      "name": "Laptop",
-      "price": 1000
-    }
-  ]
 }
