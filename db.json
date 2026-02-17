@@ -1,40 +1,42 @@
 {
-  "userS": [
-    {
-      "id": 1,
-      "email": "hr.robinson.nolasco@gmail.com",
-      "nombres": "Robinson Said",
-      "apellidos": "Nolasco Vallejos",
-      "password": "1234",
-      "userId": "01RNV",
-      "role": "admin",
-      "proyectos": [
+    "userS": [
         {
-        "id": 1,
-        "nombreCliente": "Inversiones Globales S.A.",
-        "nombreMinera": "Minera del Sur",
-        "nombreProyecto": "Extracción Sector Norte",
-        "fechaInicio": "12/01/2026",
-        "fechaFin": "	20/12/2026"
-      }
-      ]
-    },
-    {
-      "id": 2,
-      "email": "said30deenero@gmail.com",
-      "nombres": "Juan Jose",
-      "apellidos": "Valverde Rojas",
-      "password": "1122",
-      "userId": "01JVR",
-      "role": "user",
-      "proyectos": [
+            "id": 1,
+            "email": "hr.robinson.nolasco@gmail.com",
+            "nombres": "Robinson Said",
+            "apellidos": "Nolasco Vallejos",
+            "password": "1234",
+            "userId": "01RNV",
+            "role": "admin",
+            "proyectos": [
+                {
+                    "id": 1,
+                    "nombreCliente": "Inversiones Globales S.A.",
+                    "nombreMinera": "Minera del Sur",
+                    "nombreProyecto": "Extracción Sector Norte",
+                    "fechaInicio": "12/01/2026",
+                    "fechaFin": "20/12/2026"
+                }
+            ]
+        },
         {
-        "id": 1,
-        "nombreCliente": "Corporación Andes",
-        "nombreMinera": "Yacimiento Oro Verde",
-        "nombreProyecto": "Optimización Hídrica",
-        "fechaInicio": "05/02/2026",
-        "fechaFin": "15/06/2027"
-    }
-  ]
+            "id": 2,
+            "email": "said30deenero@gmail.com",
+            "nombres": "Juan Jose",
+            "apellidos": "Valverde Rojas",
+            "password": "1122",
+            "userId": "01JVR",
+            "role": "user",
+            "proyectos": [
+                {
+                    "id": 1,
+                    "nombreCliente": "Corporación Andes",
+                    "nombreMinera": "Yacimiento Oro Verde",
+                    "nombreProyecto": "Optimización Hídrica",
+                    "fechaInicio": "05/02/2026",
+                    "fechaFin": "15/06/2027"
+                }
+            ]
+        }
+    ]
 }
