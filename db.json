@@ -1,18 +1,40 @@
 {
-  "users": [
+  "userS": [
     {
       "id": 1,
       "email": "hr.robinson.nolasco@gmail.com",
-      "username": "admin",
+      "nombres": "Robinson Said",
+      "apellidos": "Nolasco Vallejos",
       "password": "1234",
-      "role": "ADMIN"
+      "userId": "01RNV",
+      "role": "admin",
+      "proyectos": [
+        {
+        "id": 1,
+        "nombreCliente": "Inversiones Globales S.A.",
+        "nombreMinera": "Minera del Sur",
+        "nombreProyecto": "Extracción Sector Norte",
+        "fechaInicio": "12/01/2026",
+        "fechaFin": "	20/12/2026"
+      }
+      ]
     },
     {
       "id": 2,
-      "username": "user",
       "email": "said30deenero@gmail.com",
-      "password": "tokioPERU123*",
-      "role": "USER"
+      "nombres": "Juan Jose",
+      "apellidos": "Valverde Rojas",
+      "password": "1122",
+      "userId": "01JVR",
+      "role": "user",
+      "proyectos": [
+        {
+        "id": 1,
+        "nombreCliente": "Corporación Andes",
+        "nombreMinera": "Yacimiento Oro Verde",
+        "nombreProyecto": "Optimización Hídrica",
+        "fechaInicio": "05/02/2026",
+        "fechaFin": "15/06/2027"
     }
   ]
 }
