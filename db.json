@@ -16,7 +16,7 @@
             "apellidos": "Valverde Rojas",
             "password": "admin",
             "role": "user"
-        },
+        }
     ],
     "proyectos":[
         {
