@@ -7,7 +7,7 @@
             "apellidos": "Nolasco Vallejos",
             "password": "1234",
             "userId": "01RNV",
-            "role": "admin",
+            "role": "admin"
             
         },
         {
@@ -17,7 +17,7 @@
             "apellidos": "Valverde Rojas",
             "password": "1122",
             "userId": "01JVR",
-            "role": "user",
+            "role": "user"
         }
     ],
     "proyectos":[
