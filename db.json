@@ -11,12 +11,12 @@
         },
         {
             "id": 2,
-            "email": "said30deenero@gmail.com",
+            "email": "admin@gmail.com",
             "nombres": "Juan Jose",
             "apellidos": "Valverde Rojas",
-            "password": "1122",
+            "password": "admin",
             "role": "user"
-        }
+        },
     ],
     "proyectos":[
         {
