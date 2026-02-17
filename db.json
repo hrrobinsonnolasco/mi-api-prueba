@@ -6,7 +6,6 @@
             "nombres": "Robinson Said",
             "apellidos": "Nolasco Vallejos",
             "password": "1234",
-            "userId": "01RNV",
             "role": "admin"
             
         },
@@ -16,13 +15,13 @@
             "nombres": "Juan Jose",
             "apellidos": "Valverde Rojas",
             "password": "1122",
-            "userId": "01JVR",
             "role": "user"
         }
     ],
     "proyectos":[
         {
             "id": 1,
+            "userId":"1",
             "nombreCliente": "Inversiones Globales S.A.",
             "nombreMinera": "Minera del Sur",
             "nombreProyecto": "Extracción Sector Norte",
@@ -30,7 +29,8 @@
             "fechaFin": "20/12/2026"
         },
         {
-            "id": 1,
+            "id": 2,
+            "userId":"2",
             "nombreCliente": "Corporación Andes",
             "nombreMinera": "Yacimiento Oro Verde",
             "nombreProyecto": "Optimización Hídrica",
